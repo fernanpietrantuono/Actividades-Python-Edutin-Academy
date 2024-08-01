@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="63dc7d82-7e38-46c3-8aa0-ce92ac18c7eb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/actividad1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/actividad2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/actividad3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/actividad4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/actividad5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/actividad6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/actividad4.py" beforeDir="false" afterPath="$PROJECT_DIR$/actividad4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +39,7 @@
     &quot;Python.actividad1.executor&quot;: &quot;Run&quot;,
     &quot;Python.actividad4.executor&quot;: &quot;Run&quot;,
     &quot;Python.actividad5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.actividad6.executor&quot;: &quot;Run&quot;,
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -184,16 +180,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

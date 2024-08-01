@@ -35,7 +35,7 @@ moneda_vigente = int(input("Ingresá la moneda actual: \n"
                            "2. Euro (EUR) \n"))
 importe = float(input("Ingresá el valor: "))
 moneda_nueva = input("Elegí una moneda nueva: \n"
-                     "1.Pesos Colombianos (COP) \n"
+                     "1. Pesos Colombianos (COP) \n"
                      "2. Yuanes Renminbi (CNY) \n"
                      "3. Libras Esterlinas (GBP) \n")
 
